@@ -7,10 +7,11 @@ Repositori ini berisi kumpulan skrip pengujian *end-to-end* (E2E) otomatis yang 
 ## 🚀 Cakupan Fitur yang Diuji (Test Scope)
 
 Pengujian otomatis ini mencakup beberapa alur kerja utama aplikasi, yaitu:
-* **Login**
+* **Halaman masuk (Login)**
 * **Pencarian Pasien (Find Patient)**
 * **Kunjungan Aktif (Active Visits)**
 * **Pengambilan Tanda Vital (Capture Vitals)**
+* **Pendaftaran Pasien (Register a Patient)**
 
 ## 🛠️ Persiapan & Instalasi
 
