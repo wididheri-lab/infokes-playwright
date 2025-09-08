@@ -1,4 +1,4 @@
-# Proyek [Nama Proyek Anda] - Pengujian E2E dengan Playwright
+# Automation dengan Playwright
 
 Repositori ini berisi kumpulan skrip pengujian *end-to-end* (E2E) otomatis yang dibangun menggunakan **Playwright** 🎭. Tujuan dari pengujian ini adalah untuk memvalidasi fungsionalitas utama aplikasi secara otomatis dari perspektif pengguna, memastikan alur kerja kritis berjalan sesuai harapan.
 
@@ -7,6 +7,7 @@ Repositori ini berisi kumpulan skrip pengujian *end-to-end* (E2E) otomatis yang 
 ## 🚀 Cakupan Fitur yang Diuji (Test Scope)
 
 Pengujian otomatis ini mencakup beberapa alur kerja utama aplikasi, yaitu:
+* **Login**
 * **Pencarian Pasien (Find Patient)**
 * **Kunjungan Aktif (Active Visits)**
 * **Pengambilan Tanda Vital (Capture Vitals)**
