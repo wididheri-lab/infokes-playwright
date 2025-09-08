@@ -15,7 +15,7 @@ Pengujian otomatis ini mencakup beberapa alur kerja utama aplikasi, yaitu:
 
 ## 🛠️ Persiapan & Instalasi
 
-Sebelum menjalankan tes, pastikan lingkungan Anda sudah siap.
+Sebelum menjalankan tes, pastikan environment Anda sudah siap.
 
 ### Prasyarat
 * [Node.js](https://nodejs.org/) (direkomendasikan versi `18.x` atau yang lebih baru)
